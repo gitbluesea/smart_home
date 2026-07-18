@@ -16,7 +16,7 @@
 ## 🛠️ 기술 스택 (Tech Stack)
 - **Frontend / Dashboard**: Streamlit (Python)
 - **sLLM Engine**: Ollama (`qwen2.5-1.5b:latest` 또는 `kanana-1.5:latest`)
-- **Runtime Environment**: Windows + WSL (Windows Subsystem for Linux)
+- **Runtime Environment**: Windows + WSL (Windows Subsystem for Linux : sLLM 서비스용도)
 - **Language**: Python 3.11+
 
 <br>
