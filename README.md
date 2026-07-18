@@ -43,7 +43,7 @@ pip install streamlit requests
 ### 3. 애플리케이션 실행
 소프트웨어가 저장된 디렉토리로 이동한 뒤 Streamlit을 구동합니다.
 ```bash
-streamlit run app3.py
+streamlit run app.py
 ```
 *실행 시 웹 브라우저(`http://localhost:8501`)가 자동으로 열립니다.*
 
